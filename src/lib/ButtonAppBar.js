@@ -30,7 +30,7 @@ function ButtonAppBar() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" className={classes.title}>
-              News
+              News And Reports
             </Typography>
             <Button color="inherit">Login</Button>
           </Toolbar>
